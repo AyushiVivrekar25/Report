@@ -1,5 +1,6 @@
 to merging all codes in local repositreies.
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Add another folder.
 Also add stash codes .
 
@@ -8,4 +9,8 @@ Also add stash codes .
 To removing purpose.
 =======
 Add another folder.
+>>>>>>> Stashed changes
+=======
+Add another folder.
+Also add stash codes .
 >>>>>>> Stashed changes
