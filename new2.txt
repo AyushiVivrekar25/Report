@@ -1,4 +1,7 @@
 to merging all codes in local repositreies.
 Add another folder.
 Also add stash codes .
->>>>>>> Stashed changes
+
+
+
+To removing purpose.
