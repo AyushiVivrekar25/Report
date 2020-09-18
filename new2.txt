@@ -13,4 +13,7 @@ Add another folder.
 =======
 Add another folder.
 Also add stash codes .
->>>>>>> Stashed changes
+
+
+
+To removing purpose.
